@@ -1,0 +1,1 @@
+javac HelloWorld.java && cargo run && gcc out.o src/std.c && ./a.out
